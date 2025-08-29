@@ -1,0 +1,8 @@
+# Environments / secrets
+.env
+.env.*
+*.json
+
+# Random Test Folders
+scaletech/
+tests/
