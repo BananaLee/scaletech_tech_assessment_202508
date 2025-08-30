@@ -1,12 +1,29 @@
-# Environments / secrets
-.env
-.env.*
-*.json
-*.csv
-*.log
+# Python basics
+__pycache__/
+*.pyc
+*.pyo
 
-# Random Test Folders
+# Environment variables and credentials
+.env
+*.env
+
+# Random JSON Files
+*.json
+
+# Virtual environments
+venv/
+env/
 scaletech/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Connection Tests
 tests/
 
 # Exceptions
