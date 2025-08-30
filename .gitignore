@@ -2,6 +2,7 @@
 .env
 .env.*
 *.json
+!config.json
 .gitignore
 *.csv
 *.log
