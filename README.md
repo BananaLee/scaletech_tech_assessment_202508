@@ -40,6 +40,7 @@ scenario, we would be asking analysts as to the purpose of the data needed in
 order to create a proper structure that's suitable for the organisation. 
 
 ## Other Technical Things
+To run, just go `python .\src\main.py`
 
 ### Env Entries Needed
 Obviously the empty bits are to be filled out
