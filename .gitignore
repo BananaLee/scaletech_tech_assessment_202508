@@ -2,6 +2,9 @@
 .env
 .env.*
 *.json
+.gitignore
+*.csv
+*.log
 
 # Random Test Folders
 scaletech/
