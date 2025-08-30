@@ -2,11 +2,12 @@
 .env
 .env.*
 *.json
-!config.json
-.gitignore
 *.csv
 *.log
 
 # Random Test Folders
 scaletech/
 tests/
+
+# Exceptions
+!config.json
